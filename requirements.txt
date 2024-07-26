@@ -1,1 +1,1 @@
-streamlit google-cloud-bigquery==x.x.x
+streamlit google-cloud-bigquery==3.25.0
