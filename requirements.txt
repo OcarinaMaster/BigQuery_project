@@ -1,1 +1,2 @@
-streamlit google-cloud-bigquery==3.25.0
+streamlit 
+google-cloud-bigquery==3.25.0
